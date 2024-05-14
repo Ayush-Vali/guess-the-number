@@ -56,3 +56,20 @@ while gamin:
       print("Goodbye")
       
       gamein=False
+
+
+# Option 100
+# Do you want to play 
+# Guess the number      
+
+# Select difficulty level easy and hard              
+# Attempt left 10  (if easy) ,else attempt left 5                      
+# Hint: too high/low                   
+
+# 1) Wrong guess again  2)guess right,you won
+# Attemep left 9
+
+# 1.1) You loose
+# The number was __
+
+
